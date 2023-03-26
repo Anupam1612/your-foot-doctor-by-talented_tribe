@@ -25,7 +25,7 @@ User Interface - The model should be integradted into a user-friendly web applic
 
 Solution Approch: 
 
-we diveded into three parts to solve this problem 
+we diveded problem into three parts.
 
 ---Artificial Inteligence and Machine Learning 
 ---Frontend Developement
@@ -41,14 +41,14 @@ but we dont get as much accuracy so we implement dense Convoluation Neural netwo
 
 2) Frontend development 
 
-Here we are implemented our website using HTML, CSS, and javascript and additional UI/UX uisng Figma open source toolkit.
+Here we are implemented our website using HTML, CSS, and javascript and additional UI/UX uisng Figma open source toolkit also for database we are using Firebase.
+Website is already deployed you can visit our website as mention above. 
 
 3) Backend Developement 
 
-connecting Our Machine learing Model using .pkl file in our Frontend for that we are using Flask Python liberary. but we are faceing deficulties over here we cant be able to connect our ML Model to our Frontend.
-And still we are working on connecting our ML model to Our Frontend and Backend.
+so basically for connecting Our Machine learing Model using .pkl file in our Back-end, for that we are using Flask Python liberary. but we are faceing difficulties over here we can't be able to connect our Machine Learning Model to our Back-end. And still we are working on connecting our Machine Learning model to Our Frontend and Backend.
 
 
-And in ML Folder all model files are ther and in Frontend folder All Frontend related files are present and Image Dataset is in Dataset Folder.
+And all the machine learning related files you can find in Folder where all model files are there and also Frontend and backend related files are also there. Image Dataset is in Dataset Folder as well.
 
 
