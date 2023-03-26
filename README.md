@@ -49,4 +49,6 @@ connecting Our Machine learing Model using .pkl file in our Frontend for that we
 And still we are working on connecting our ML model to Our Frontend and Backend.
 
 
-and in ML Folder all model files are ther and in Frontend folder All Frontend related files are presend and Data set is in Dataset Folder
+And in ML Folder all model files are ther and in Frontend folder All Frontend related files are present and Image Dataset is in Dataset Folder.
+
+
